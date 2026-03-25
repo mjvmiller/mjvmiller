@@ -24,6 +24,6 @@ I love solving difficult problems, taking on new challenges, and learning as muc
 
 ### What I am doing now 🧑‍💻:
 
-- 🔭 I’m currently diving deeper into network protocols and database schema design.
-- ✨ Working on-contract for a biotech startup and a colorant manufacturer.
+- 📡 I’m currently diving deeper into network protocols and database schema design.
+- 🧬 Working on-contract for a biotech startup and a colorant manufacturer.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/michaeljvmiller/)
